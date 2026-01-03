@@ -18,8 +18,3 @@ I am a passionate Software Engineer focused on building scalable and efficient d
 ![](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)
 
 ---
-
-##### My Github Stars
-![Musyafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Musyafa)(https://github.com/anuraghazra/github-readme-stats)
-
----
