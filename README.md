@@ -9,7 +9,7 @@ I am a passionate Software Engineer focused on building scalable and efficient d
 ##### skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,php,larafel,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,python,php,larafel,kubernetes,docker,c,vim,aws,git,github,gitlab,netlify,node js,vercel,visual studio,wordpress" />
   </a>
 </p>
 
