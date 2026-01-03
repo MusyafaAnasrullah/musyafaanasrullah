@@ -19,7 +19,6 @@ I am a passionate Software Engineer focused on building scalable and efficient d
 
 --- -->
 
-# 💫 About Me:
  Hi, I'm Musyafa Anasrullah! 💻<br><br>Software Engineer<br>I am a passionate Software Engineer focused on building scalable and efficient digital solutions. I enjoy exploring new technologies and solving real-world problems through code.<br>
 
 
