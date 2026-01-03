@@ -20,5 +20,4 @@ I am a passionate Software Engineer focused on building scalable and efficient d
 ---
 
 ##### My Github Stars
-![Musyafa Anasrullah GitHub stats](https://github-readme-stats.vercel.app/api?username=musyafaanasrullah)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
