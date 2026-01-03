@@ -7,7 +7,7 @@ I am a passionate Software Engineer focused on building scalable and efficient d
 ---
 
 ##### skills
-[![My Skills](https://skillico.dev/icons?i=html,css,js,git,python,php,laravel,docker,c,vim,aws,git,github,gitlab,netlify,nodejs,vercel,wordpress,azure,react,vue,flutter&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,python,php,laravel,docker,c,vim,aws,git,github,gitlab,netlify,nodejs,vercel,wordpress,azure,react,vue,flutter&perline=11)](https://skillicons.dev)
 
 ---
 
