@@ -17,5 +17,8 @@ I am a passionate Software Engineer focused on building scalable and efficient d
 ![](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 ![](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)
 
+---
 
+##### My Github Stars
+![Musyafa Anasrullah GitHub stats](https://github-readme-stats.vercel.app/api?username=musyafaanasrullah)
 
