@@ -1,7 +1,8 @@
 ## <img width="2520" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/f17037ff-5ede-4962-b2f6-e0b8a5700f00" />
 
-Hi, 👋 I'm Musyafa Anasrullah! 💻<br>Software Engineer<br><br>I am a passionate Software Engineer focused on building scalable and efficient digital solutions. I enjoy exploring new technologies and solving real-world problems through code.<br>
-
+Hi, 👋 I'm Musyafa Anasrullah! 
+## 💫About me:
+💻<br>Software Engineer<br><br>I am a passionate Software Engineer focused on building scalable and efficient digital solutions. I enjoy exploring new technologies and solving real-world problems through code.<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/2mTnUjvsx3) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=61558620307252) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/musyafa3is) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musyafa-anasrullah-674368309/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@musyafaanasrullah) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/musyafa3is) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MusyafaAnasrullah)
