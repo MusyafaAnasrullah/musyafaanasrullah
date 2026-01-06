@@ -1,7 +1,7 @@
 ## <img width="2520" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/f17037ff-5ede-4962-b2f6-e0b8a5700f00" />
 
 Hi, 👋 I'm Musyafa Anasrullah! 
-## 💫About me:
+# 💫About me:
 I am a fourth-year **Software Engineering** student at Bina Sarana Informatika University, specializing in Full-Stack Development and Machine Learning Applications. I am passionate about building scalable web applications, exploring AI/ML solutions, and continuously improving my coding and problem-solving skills.
 
 ## 💻 Tech Stack:
