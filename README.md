@@ -7,18 +7,18 @@ I am a fourth-year **Software Engineering** student at Bina Sarana Informatika U
 ##  🧠 MY SKILLS :
 [![My Skills](https://skillicons.dev/icons?i=,html,css,js,nodejs,laravel,python,)](https://skillicons.dev)
 *Frameworks: React, Next.js
--Styling: Tailwind CSS, Modern CSS
--Approach: Component-based, responsive & scalable UI
--JavaScript (ES6+)
--TypeScript
--Python (Basics & scripting)
+- Styling: Tailwind CSS, Modern CSS
+- Approach: Component-based, responsive & scalable UI
+- JavaScript (ES6+)
+- TypeScript
+- Python (Basics & scripting)
 
 ##  🛠️TOOLS & WORKFLOW :
 [![My Skills](https://skillicons.dev/icons?i=,vscode,git,github)](https://skillicons.dev)
--Git & GitHub (Version Control)
--VS Code (Primary IDE)
--Android Studio (App UI Development)
--Clean workflow & best practices
+- Git & GitHub (Version Control)
+- VS Code (Primary IDE)
+- Android Studio (App UI Development)
+- Clean workflow & best practices
 
 ## 🎓 About Me:
 I'm also an educational coding content creaator,sharing my coding passion,and any advice on:
