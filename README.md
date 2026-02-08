@@ -6,7 +6,7 @@ I am a fourth-year **Software Engineering** student at Bina Sarana Informatika U
 
 ##  🧠 MY SKILLS :
 [![My Skills](https://skillicons.dev/icons?i=,html,css,js,nodejs,laravel,python,)](https://skillicons.dev)
-*Frameworks: React, Next.js
+- Frameworks: React, Next.js
 - Styling: Tailwind CSS, Modern CSS
 - Approach: Component-based, responsive & scalable UI
 - JavaScript (ES6+)
