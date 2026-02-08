@@ -5,7 +5,7 @@ Hi, 👋 I'm Musyafa Anasrullah!
 I am a fourth-year **Software Engineering** student at Bina Sarana Informatika University, specializing in Full-Stack Development and Machine Learning Applications. I am passionate about building scalable web applications, exploring AI/ML solutions, and continuously improving my coding and problem-solving skills.
 
 ##  🧠my skills :
-[![My Skills](https://skillicons.dev/icons?i=,html,css,js,laragon ,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,html,css,js)](https://skillicons.dev)
 
 ## 🎓 About Me:
 I'm also an educational coding content creaator,sharing my coding passion,and any advice on:
