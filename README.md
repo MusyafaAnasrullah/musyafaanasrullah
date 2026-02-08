@@ -25,8 +25,5 @@ I'm also an educational coding content creaator,sharing my coding passion,and an
 ## 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musyafa-anasrullah-674368309/) 
 
-## 💰 “Support my work by donating 💖”
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/musyafaanasrullah/goal?g=0) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
